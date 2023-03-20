@@ -1,0 +1,4 @@
+Dealer wins.
+Player hand: [10, 7] : 17
+Dealer hand: [10, 2, 6] : 18
+Result: -1
